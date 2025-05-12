@@ -10,7 +10,7 @@ export default function Scale() {
     <Hero
       heroImage="https://picsum.photos/seed/scale/1920/1080?random=1 "
       altTxt="ScaleSrc"
-      content="Scale"
+      content="Scale Content"
     />
   );
 }
