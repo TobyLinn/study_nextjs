@@ -10,7 +10,7 @@ export default function Reliability() {
     <Hero
       heroImage="https://picsum.photos/seed/reliability/1920/1080?random=1 "
       altTxt="ReliabilitySrc"
-      content="Reliability"
+      content="Reliability Content"
     />
   );
 }
